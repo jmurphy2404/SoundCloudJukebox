@@ -60,5 +60,5 @@ Jukebox.prototype.updateCurrent = function(){
   document.querySelector('#artist').innerHTML = song.user.username
   document.querySelector('#title').innerHTML = song.title
   document.querySelector('#art').src = song.artwork_url.replace('-large', '-t500x500');
-  document.querySelector('.play-me h6').innerHTML = "ENJOY"
+  document.querySelector('.play-me h6').style.fontSize = "1em"  ;
 }

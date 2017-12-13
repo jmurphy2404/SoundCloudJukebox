@@ -1,9 +1,47 @@
-h1{
+h6{
 	text-align: center;
 	color: #011627;
 	margin-bottom: 0px;
 	margin-top: 0px;
 	font-size: 4em;
+	font-family: impact;
+}
+
+img {
+	height: 300px;
+	margin: 5px;
+}
+
+#nowPlaying{
+	font-family: impact;
+	color: #011627;
+	text-align: center;
+}
+
+.main-container{
+	text-align: center;
+	width: 600px;
+	height: 450px;
+	background-color: #FF9F1C;
+	display: block;
+	margin: auto;
+	border: 3px solid #FDFFFC;
+}
+
+h2 {
+	text-align: center;
+	color: #011627;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-size: 1em;
+	font-family: impact;
+}
+h3 {
+	text-align: center;
+	color: #011627;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-size: .75em;
 	font-family: impact;
 }
 
@@ -27,7 +65,7 @@ h1{
 	cursor: pointer;
 	margin:auto;
 	padding: 0px 18px 0px 18px;	
-	font-size: 4em;
+	font-size: 4		em;
 	color: #011627;
 }
 
