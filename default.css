@@ -1,8 +1,7 @@
 h6{
 	text-align: center;
 	color: #011627;
-	margin-bottom: 0px;
-	margin-top: 0px;
+	margin: 0px;
 	font-size: 4em;
 	font-family: impact;
 }
@@ -31,16 +30,14 @@ img {
 h2 {
 	text-align: center;
 	color: #011627;
-	margin-bottom: 0px;
-	margin-top: 0px;
+	margin: 0px;
 	font-size: 1em;
 	font-family: impact;
 }
 h3 {
 	text-align: center;
 	color: #011627;
-	margin-bottom: 0px;
-	margin-top: 0px;
+	margin: 0px;
 	font-size: .75em;
 	font-family: impact;
 }
@@ -64,8 +61,8 @@ h3 {
 #rewind, #play, #pause, #forward{
 	cursor: pointer;
 	margin:auto;
-	padding: 0px 18px 0px 18px;	
-	font-size: 4		em;
+	padding: 0px 18px;	
+	font-size: 4em;
 	color: #011627;
 }
 
